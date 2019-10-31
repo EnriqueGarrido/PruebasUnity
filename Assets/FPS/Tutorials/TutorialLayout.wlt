@@ -427,7 +427,7 @@ MonoBehaviour:
   m_LastFolders:
   - Assets/FPS
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: D:\Documentos\Unity\Karting
+  m_LastProjectPath: D:\Github\PruebasUnity
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
